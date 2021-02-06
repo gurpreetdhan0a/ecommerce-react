@@ -20,7 +20,6 @@ class Cart extends Component {
 
     renderCartItems(){
         return this.props.cart.map((item, index) =>{
-            console.log(item)
             return (
                 <div className="card" key={index}>
                     <img src={item.img} alt="product"/>

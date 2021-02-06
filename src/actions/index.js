@@ -1,4 +1,4 @@
-import products from '../apis/products';
+import {products} from '../data/db.json'
 
 export const signIn =(userId, username) =>{
     return {
@@ -29,15 +29,16 @@ export const removeItem = (productId) =>{
 }
 
 export const fetchProducts = () =>{
-    return async (dispatch) =>{
-        const response = await products.get('/products');
-        dispatch({type: 'FETCH_PRODUCTS', payload: response.data})
+    return {
+        type:'FETCH_PRODUCTS',
+        payload : products
     }
 }
 
 export const fetchProduct = (id) =>{
-    return async (dispatch) =>{
-        const response = await products.get(`/products/${id}`)
-        dispatch({type: 'FETCH_PRODUCT', payload: response.data})
+    return {
+        type: "FETCH_PRODUCT",
+        payload: products,
+        id:id
     }
 } 

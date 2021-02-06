@@ -10,8 +10,10 @@ class Header extends React.Component{
             <Link to="/" className="item">
                 Ecommerce App
             </Link>     
-        <div className="right menu">
-            <GoogleAuth />    
+        <div className="right menu"> 
+        <div className="signIn">
+        <GoogleAuth />   
+        </div>  
             <Link to="/products" className="item">
                 Products
             </Link>     

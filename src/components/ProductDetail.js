@@ -22,7 +22,6 @@ class ProductDetail extends React.Component {
             const cartProducts = this.props.newCart.slice();
             const existingProduct = cartProducts[index];
             this.setState({newState: [...this.state.newState, existingProduct]})
-            console.log(this.state.newState)
            
         }else{
             product.quantity = this.state.quantity;

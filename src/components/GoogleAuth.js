@@ -48,7 +48,6 @@ class GoogleAuth extends Component {
         }
     }
     render() {
-        console.log(this.props.username)
         return (
             <div>
                 {this.renderAuthButton()}
