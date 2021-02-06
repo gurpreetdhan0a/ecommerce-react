@@ -1,0 +1,114 @@
+{
+    "products": [
+      {
+        "img": "https://cdn.shopify.com/s/files/1/2393/1397/products/12_aa89459d-573c-4518-9615-5d671326508e_400x.png?v=1513757647",
+        "brand": "Brand Name",
+        "text" : "Naminos Lementum Risus Cras Damos Dincidunts Comodous",
+        "rating" : 3,
+        "oldPrice": 99,
+        "newPrice" : 89,
+        "id": 1
+      },
+      {
+        "img": "https://cdn.shopify.com/s/files/1/2393/1397/products/11_1024x1024.png?v=1569022011",
+        "brand": "Brand Name",
+        "text" : "Naminos Lementum Risus Cras Damos Dincidunts Comodous",
+        "rating" : 4,
+        "oldPrice": 109,
+        "newPrice" : 99,
+        "id": 2
+      },
+      {
+        "img": "https://cdn.shopify.com/s/files/1/2393/1397/products/13_1024x1024.png?v=1569022011",
+        "brand": "Brand Name",
+        "text" : "Naminos Lementum Risus Cras Damos Dincidunts Comodous",
+        "rating" : 2,
+        "oldPrice": 79,
+        "newPrice" : 69,
+        "id": 3
+      },
+      {
+        "img": "https://cdn.shopify.com/s/files/1/2393/1397/products/14_0f7b4730-c853-4792-b6fc-a174ed548e5c_1024x1024.png?v=1569022011",
+        "brand": "Valentino",
+        "text" : "Naminos Lementum Risus Cras Damos Dincidunts Comodous",
+        "rating" : 5,
+        "oldPrice": 69,
+        "newPrice" : 59,
+        "id": 4
+      },
+      {
+        "img": "https://cdn.shopify.com/s/files/1/2393/1397/products/12_aa89459d-573c-4518-9615-5d671326508e_400x.png?v=1513757647",
+        "brand": "Brand Name",
+        "text" : "Naminos Lementum Risus Cras Damos Dincidunts Comodous",
+        "rating" : 3,
+        "oldPrice": 99,
+        "newPrice" : 89,
+        "id": 5
+      },
+      {
+        "img": "https://cdn.shopify.com/s/files/1/2393/1397/products/04_1024x1024.png?v=1569022011",
+        "brand": "Brand Name",
+        "text" : "Naminos Lementum Risus Cras Damos Dincidunts Comodous",
+        "rating" : 4,
+        "oldPrice": 109,
+        "newPrice" : 99,
+        "id": 6
+      },
+      {
+        "img": "https://cdn.shopify.com/s/files/1/2393/1397/products/08_eab116a4-0ab6-4f7a-aa53-02829f1bb258_1024x1024.png?v=1569022011",
+        "brand": "Brand Name",
+        "text" : "Naminos Lementum Risus Cras Damos Dincidunts Comodous",
+        "rating" : 2,
+        "oldPrice": 79,
+        "newPrice" : 69,
+        "id": 7
+      },
+      {
+        "img": "https://cdn.shopify.com/s/files/1/2393/1397/products/17_9967c6d0-66f9-44cc-9da1-776c718b7719_1024x1024.png?v=1569022011",
+        "brand": "Coach",
+        "text" : "Naminos Lementum Risus Cras Damos Dincidunts Comodous",
+        "rating" : 5,
+        "oldPrice": 69,
+        "newPrice" : 59,
+        "id": 8
+      },
+      {
+        "img": "https://cdn.shopify.com/s/files/1/2393/1397/products/01_cfebd8ed-d58f-4d3a-9134-f990f12f2df5_1024x1024.png?v=1569022011",
+        "brand": "Brand Name",
+        "text" : "Naminos Lementum Risus Cras Damos Dincidunts Comodous",
+        "rating" : 3,
+        "oldPrice": 99,
+        "newPrice" : 89,
+        "id": 9
+      },
+      {
+        "img": "https://cdn.shopify.com/s/files/1/2393/1397/products/11_1024x1024.png?v=1569022011",
+        "brand": "Brand Name",
+        "text" : "Naminos Lementum Risus Cras Damos Dincidunts Comodous",
+        "rating" : 4,
+        "oldPrice": 109,
+        "newPrice" : 99,
+        "id": 10
+      },
+      {
+        "img": "https://cdn.shopify.com/s/files/1/2393/1397/products/13_1024x1024.png?v=1569022011",
+        "brand": "Brand Name",
+        "text" : "Naminos Lementum Risus Cras Damos Dincidunts Comodous",
+        "rating" : 2,
+        "oldPrice": 79,
+        "newPrice" : 69,
+        "id": 11
+      },
+      {
+        "img": "https://cdn.shopify.com/s/files/1/2393/1397/products/14_0f7b4730-c853-4792-b6fc-a174ed548e5c_1024x1024.png?v=1569022011",
+        "brand": "Valentino",
+        "text" : "Naminos Lementum Risus Cras Damos Dincidunts Comodous",
+        "rating" : 5,
+        "oldPrice": 69,
+        "newPrice" : 59,
+        "id": 12
+      }
+
+
+    ]
+  }
