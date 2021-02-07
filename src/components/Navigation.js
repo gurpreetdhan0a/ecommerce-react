@@ -20,7 +20,7 @@ class Header extends React.Component{
             <Link to="/cart" className="item">
                 Cart <span>
                         <i className="shopping cart icon">
-                        <b className="cart-total">{this.props.cart.length}</b>  
+                        <b className= "cart-total">{this.props.cart.length}</b>  
                         </i>
                 </span>
             </Link>   

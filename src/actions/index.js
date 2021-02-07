@@ -38,7 +38,6 @@ export const fetchProducts = () =>{
 export const fetchProduct = (id) =>{
     return {
         type: "FETCH_PRODUCT",
-        payload: products,
-        id:id
+        payload: products[id-1]
     }
 } 
