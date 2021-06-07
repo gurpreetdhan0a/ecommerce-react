@@ -6,6 +6,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To run locally and for Google sign in to appear you need to go to [https://console.cloud.google.com/apis/credentials](https://console.cloud.google.com/apis/credentials) and authorize URI http://localhost:3000 
+
+
 ## Available Scripts
 
 In the project directory, you can run:
